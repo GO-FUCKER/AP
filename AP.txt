@@ -2,3 +2,4 @@
 1-0-8-0-9-u-0-_-a-8-0-9						=tita manus
 R10141u0_a141J					=p me
 R10293u0_a293J					=p Safin
+R10183u0_a183J          = Asif Hassan Khan
