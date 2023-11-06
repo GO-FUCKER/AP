@@ -6,3 +6,4 @@ R10183u0_a183J          = Asif Hassan Khan
 R10264u0_a264J          =MEHEDI
 R10119u0_a119J					=p 64
 R1/0/1/4/1/u/0/_/a/1/4/1J			=F me
+R10345u0_a345J						=p salman
