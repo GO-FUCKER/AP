@@ -8,3 +8,4 @@ R10119u0_a119J					=p 64
 R10345u0_a345J					=p salman
 R10827u0_a827J					=p PA OF MY
 R1/0/1/4/1/u/0/_/a/1/4/1J			=F me
+R1/0/2/6/4/u/0/_/a/2/6/4J			f mehdi
