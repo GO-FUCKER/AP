@@ -1,12 +1,4 @@
-61-0-1-4-1-u-0-_-a-1-4-1						=me
-1-0-8-0-9-u-0-_-a-8-0-9						=tita manus
-R10141u0_a141J					=p me
-R10293u0_a293J					=p Safin
-R10183u0_a183J          = Asif Hassan Khan
-R10264u0_a264J          =MEHEDI
-R10119u0_a119J					=p 64
-R10345u0_a345J					=p salman
-R10827u0_a827J					=p PA OF MY
+R10141U0_A141J					= me 32
 R1/0/1/4/1/u/0/_/a/1/4/1J			=F me
 R1/0/2/6/4/u/0/_/a/2/6/4J			f mehdi
 R1/0/3/6/2/u/0/_/a/3/6/2J			= f moin
