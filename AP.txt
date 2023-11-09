@@ -6,3 +6,4 @@ R1/0/8/4/1/u/0/_/a/8/4/1J				p mehdi
 R10362U0_A362J                =main new 
 R10841U0_A841J                = PA new
 R10178U0_A178J					= rakib member 1
+R10185U0_A185J						=rakib member 2
