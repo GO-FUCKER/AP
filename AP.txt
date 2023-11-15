@@ -10,4 +10,4 @@ R10185U0_A185J						=rakib member 2
 R11043U0_A1043J					= 3
 R10241U0_A241J						=4
 R10279U0_A279J					= hitlr
-R1023SUO_A135J							mehdi
+R10135U0_A135J				=mehdi
